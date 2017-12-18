@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Aleria_ModPack",
+      "name" : "Aleria_Modpack",
+      "version" : "1",
+      "location" : "aleria_modpack.json",
+      "priority" : 0
+    }
+  ]
+}
